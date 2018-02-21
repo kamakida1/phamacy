@@ -79,7 +79,7 @@
     <div class="container">
       <div class="row-fluid">
         <div class="span6">
-          <h1>Registration</h1>
+          <h1>กรอกประวัติสมาชิก</h1>
         </div>
         <div class="span6">
           <ul class="breadcrumb pull-right">
@@ -103,7 +103,7 @@
           <!-- E-mail -->
 
         <div class="controls">
-          <label for="inputsm">input-sm</label>
+          <label for="inputsm">ชื่อสมาชิก</label>
       <select class="input-xlarge" id="sel1">
         <option>1</option>
         <option>2</option>
